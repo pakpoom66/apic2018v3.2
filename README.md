@@ -1,9 +1,9 @@
-Enabling IBM API Connect on IBM Cloud Private Version 2.1.0.3
-=============================================================
+Install IBM API Connect 2018v3.2 on IBM Cloud Private Version 2.1.0.3
+=====================================================================
 
 # Introduction
 
-This document provides guidance for installing **IBM API Connect v2018.3.3** on **IBM Cloud Private 2.1.0.3**. Also, it covers the topic of using all the components of IBM API Connect and tips for troubleshooting issues.
+This document provides guidance for installing **IBM API Connect v2018.3.2** on **IBM Cloud Private 2.1.0.3**. Also, it covers the topic of using all the components of IBM API Connect and tips for troubleshooting issues.
 
 This document presumes that following two main pre-requisites are completed:
 
